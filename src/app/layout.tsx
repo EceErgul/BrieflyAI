@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "BrieflyAI - AI Powered Text Summarizer",
   description: "Transform long articles into clear summaries, tags, and insights instantly using Gemini API.",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
