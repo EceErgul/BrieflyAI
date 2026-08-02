@@ -1,5 +1,9 @@
 # BrieflyAI - AI-Powered Text Summarizer & Insights Engine
 
+> 🌐 **Live Demo:** [briefly-ai.onrender.com](https://briefly-ai.onrender.com)
+
+BrieflyAI, Clean Architecture (Ports & Adapters) prensipleriyle geliştirilmiş, Docker ve Render üzerinde çalışan AI destekli bir özetleme uygulamasıdır.
+
 BrieflyAI is a production-ready Web application built with Next.js 15, TypeScript, and Google Gemini API. It transforms long texts, articles, and documents into key summaries, structured tags, reading time estimates, and sentiment analysis.
 
 Designed with **Clean Architecture** principles (Domain-Driven Design), strict TypeScript standards, and complete unit test coverage using Jest.
