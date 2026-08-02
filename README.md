@@ -1,6 +1,6 @@
 # BrieflyAI - AI-Powered Text Summarizer & Insights Engine
 
-> 🌐 **Live Demo:** [briefly-ai.onrender.com](https://briefly-ai.onrender.com)
+> 🌐 **Live Demo:** https://brieflyai-ezdr.onrender.com/
 
 BrieflyAI, Clean Architecture (Ports & Adapters) prensipleriyle geliştirilmiş, Docker ve Render üzerinde çalışan AI destekli bir özetleme uygulamasıdır.
 
